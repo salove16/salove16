@@ -1,13 +1,13 @@
 <div>
-   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+   <img align="right" alt="GIF" src="https://media0.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47w8krdeneqlzhlh7m2kc01sk2k89a8rr0v5bx3lw8&rid=giphy.gif&ct=g" />
 <!--   <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PiyushChaukade&show_icons=true&locale=en&layout=compact" alt="PiyushChaukade" /></p> -->
    
 </div>
 
-<h4>
+<h3>
 
-Hi 👋 My name is Shashank Shalabh Passionate Full Stack Web Developer. I'm a Full Stack Web Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.* 🌍  I'm based in Patna,Bihar,India* ✉️  You can contact me at [shashank.shalabh909@gmail.com](mailto:shashank.shalabh909@gmail.com)* 🧠  I'm learning Redux* 🤝  I'm open to collaborating on Frontend and Backend projects* ⚡  Learning new things and contribute more</h4>
+Hi 👋 My name is Shashank Shalabh Passionate Full Stack Web Developer. I'm a Full Stack Web Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.* 🌍  I'm based in Patna,Bihar,India* ✉️  You can contact me at [shashank.shalabh909@gmail.com](mailto:shashank.shalabh909@gmail.com)* 🧠  I'm learning Redux* 🤝  I'm open to collaborating on Frontend and Backend projects* ⚡  Learning new things and contribute more</h3>
 
 <!-- <a href="https://www.github.com/salove16" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/salove16?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
