@@ -31,7 +31,11 @@ src="https://img.shields.io/github/followers/salove16?logo=github&style=for-the-
 
 <div width="100%" align="center">
   <a href="https://github.com/salove16/KFC-COMPLETE-PROJECT" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=salove16&repo=KFC-COMPLETE-PROJECT&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  
   <a href="https://github.com/salove16/DotAndKey-final" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=salove16&repo=DotAndKey-final&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  
   <a href="https://github.com/salove16/weather_App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=salove16&repo=weather_App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  
   <a href="https://github.com/salove16/StopWatch_timer" align="left"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=salove16&repo=StopWatch_timer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  
 </div><br /><br /><br /><br /><br /><br /><br />
