@@ -1,3 +1,11 @@
+<div>
+   <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PiyushChaukade&show_icons=true&locale=en&layout=compact" alt="PiyushChaukade" /></p>
+   
+</div>
+
+
 Hi 👋 My name is Shashank Shalabh Passionate Full Stack Web Developer. I'm a Full Stack Web Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.* 🌍  I'm based in Patna,Bihar,India* ✉️  You can contact me at [shashank.shalabh909@gmail.com](mailto:shashank.shalabh909@gmail.com)* 🧠  I'm learning Redux* 🤝  I'm open to collaborating on Frontend and Backend projects* ⚡  Learning new things and contribute more
 
 <!-- <a href="https://www.github.com/salove16" target="_blank" rel="noreferrer"><img
