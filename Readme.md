@@ -1,5 +1,5 @@
 <div>
-   <img  alt="GIF" src="https://media0.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47w8krdeneqlzhlh7m2kc01sk2k89a8rr0v5bx3lw8&rid=giphy.gif&ct=g" />
+   <img style="align-items:center" alt="GIF" src="https://media0.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47w8krdeneqlzhlh7m2kc01sk2k89a8rr0v5bx3lw8&rid=giphy.gif&ct=g" />
 <!--   <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PiyushChaukade&show_icons=true&locale=en&layout=compact" alt="PiyushChaukade" /></p> -->
    
