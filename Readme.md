@@ -16,7 +16,7 @@
 <!----------------------------------------------------------------GITHUB STATS---------------------------------------------------------------------------->
 <!--LINK FOR ICONS = https://github.com/marwin1991/profile-technology-icons -->
 
-<h3 align="center">TECHNOLOGIES I WORKED WITH</h3>
+<h3 align="center">TECHNOLOGIES I WORKED WITH 🔧</h3>
 <p align="center">
 <a><img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="39" height="39" alt="html5"/></a>
 <a><img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="39" height="39" alt="css"/></a>
@@ -37,7 +37,7 @@
 <!-- <a><img src="" width="39" height="39" alt=""/></a> -->
 </p>
 
-<h4 align="center">WANT TO EXPLORE</h4>
+<h4 align="center">WANT TO EXPLORE 🧭</h4>
 <p align="center">
 <a><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" width="32" height="32" alt="Nest.js"/></a>
 <a><img src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" width="32" height="32" alt="graphQL"/></a>
