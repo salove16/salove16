@@ -11,6 +11,7 @@
 
 <p align="center"> <img style=" color: rgb(255, 255, 255);
   background: #111" src="https://komarev.com/ghpvc/?username=salove16&label=Profile%20views&color=0e75b6&style=flat" alt="salove16" /> </p>
+<!--   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> -->
 <hr>
 
 
