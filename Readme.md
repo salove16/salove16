@@ -1,4 +1,5 @@
 <h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h3>
+<p align="center">With over 1+ year as a MERN stack full-stack developer, I specialize in creating resilient and user-focused solutions. My strength lies in collaborative engagement with cross-functional teams, contributing to the seamless delivery of successful projects and learning new stacks.</p>
 
 <p align="center">
   <a href="mailto:shashank.shalabh909@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
